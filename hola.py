@@ -1,1 +1,2 @@
 print("Buenas")
+print("Adios")
